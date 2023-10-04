@@ -34,6 +34,6 @@ Install the necessary packages using pip:
 pip install tensorflow keras
 
 
-Result: 
+## Result
 With CNN, at the end 10 epochs, accuracy was at around <b>70%</b>  which is a significant improvement over ANN.
 CNN's are best for image classification and gives superb accuracy. Also computation is much less compared to simple ANN as <b>maxpooling reduces the image dimensions</b> while still preserving the features.
